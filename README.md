@@ -16,20 +16,22 @@ a) answering business questions related to the company using charts to visualize
 (iii) Number of Orders by Region
 (iv) Sum of Revenue by Segment
 
-b) determine the relationship between distance travelled by cummuters and bike purchase.
+b) showing trends and context for key metrics such as Sales, Profit and Revenue.
 
-c) visualize the relationship between age bracket and bike purchase.
+c) demonstrating the relationship in data models.
+
+d) Organizing Measures into Measure table.
 
 
 ### 2.2. Context:
 
-The dataset is made up of data collected by a company that deals on bike. The different fields contain different socio-demographic and bike purchase information of the customers. Which includes: ID,	Marital Status,	Gender,	Income,	Children,	Education,	Occupation,	Home Owner,	Cars,	Commute Distance,	Region,	Age,	Purchased Bike. The dataset contains two datatypes: strings and integers.
+The dataset is made up of Superstore data from 2014 to 2016. 
 
 ### 2.3. Data Sources
 
-The primary source of data used here is bikedata.xlsx which was gotten as an excel file and it's an open source data which was given as a practice data. The following is the link to the dataset: 
+The primary source of data used here is Superstore.xlsx which is an open source data which was given as a practice data. The following is the link to the dataset: 
 
-https://docs.google.com/spreadsheets/d/1qzPm4m7N8K8KQcNwRcOZfbIZJ5YC0t0O/edit?usp=drive_link&ouid=106458428464023242528&rtpof=true&sd=true
+https://drive.google.com/file/d/14sxrhVjy_hoO68bgH0Rkg-L7h6yAU4-https://drive.google.com/file/d/14sxrhVjy_hoO68bgH0Rkg-L7h6yAU4-
 
 ## 3.0. Data Understanding
 
