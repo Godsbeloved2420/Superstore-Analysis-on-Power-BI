@@ -68,18 +68,9 @@ CALENDARAUTO()
 
 c) new columns: Week Day (Week Day = WEEKDAY ('Calendaer' [Date], 1)), Month (Month = MONTH ('Calendaer' [Date]), Quarter (Quarter = QUARTER ('Calendaer' [Date]) and Year (Year = YEAR ('Calendaer' [Date]) were created.
 
-d) New measures were created which include: Total Revenue (Total Revenue = Sum (Order[Revenue]), Total Profit (Total Profit = Sum (Order[Profit]) and Total Sales (Total Sales = Sum (Order[Sales])
-```Python
-def age_grouping(age):
-    if age<=30:
-        return 'Adolescent'
-    elif age<=54:
-        return 'Middle Age'
-    else:
-        return 'old'
-    
-file['Age Bracket']=file['Age'].apply(age_grouping)
-```
+d) New measures were created which include: Total Revenue (Total Revenue = Sum (Order[Revenue]), Total Profit (Total Profit = Sum (Order[Profit]) and Total Sales (Total Sales = Sum (Order[Sales]) and were organized into Measures Table.
+
+e) Creating of relationships in data model - the Calender Table was linked to the Orders Table by marking the Calender Table as the date table and dragging the Order Date to Calender table.
 
 ### 4.2. Assumptions:
 The males purchased more bike more than the female gender due to the fact they earned more than the females.
