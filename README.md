@@ -58,7 +58,7 @@ The dataset was imported and loaded into Power BI. There was no need for cleanin
 
 ### 4.2. Analysis
 
-a) a new column was added to get the Revenue.
+a) a new column was added to get the Revenue (Revenue = Orders[Sales] - Orders[Discount]).
 
 b) Calendar and Measures Tables were created. For the Calender Table, 
 
@@ -66,14 +66,9 @@ b) Calendar and Measures Tables were created. For the Calender Table,
 CALENDARAUTO()
 ```
 
-c) replacing 'M' and 'F' in the Gender column with 'Male' and 'Female' respectively 
+c) new columns: Week Day (Week Day = WEEKDAY ('Calendaer' [Date], 1)), Month (Month = MONTH ('Calendaer' [Date]), Quarter (Quarter = QUARTER ('Calendaer' [Date]) and Year (Year = YEAR ('Calendaer' [Date]) were created.
 
-```Python
-file['Gender']=file['Gender'].replace(['M','F'],['Male','Female']).
-```
-
-d) grouping 'Age' into different age brackets.
-
+d) New measures were created which include: Total Revenue (Total Revenue = Sum (Order[Revenue]), Total Profit (Total Profit = Sum (Order[Profit]) and Total Sales (Total Sales = Sum (Order[Sales])
 ```Python
 def age_grouping(age):
     if age<=30:
