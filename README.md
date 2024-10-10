@@ -58,6 +58,8 @@ The dataset was imported and loaded into Power BI. There was no need for cleanin
 
 ### 4.2. Analysis
 
+#### The following steps were taken in analyzing the dataset:
+
 a) a new column was added to get the Revenue (Revenue = Orders[Sales] - Orders[Discount]).
 
 b) Calendar and Measures Tables were created. For the Calender Table, 
@@ -74,9 +76,12 @@ e) Creating of relationships in data model - the Calender Table was linked to th
 
 f) Creating of dashboard using charts (column and B, KPIs and cards.
 
+g) slicers were introduced to view the analysis by region, Category, Date and State.
+
 
 ### 4.2. Assumptions:
-The males purchased more bike more than the female gender due to the fact they earned more than the females.
+
+Products sold by Superstore company favours customers from the Western region more than other regions. 
 
 
 ## 5.0. Analysis
@@ -92,30 +97,48 @@ The males purchased more bike more than the female gender due to the fact they e
 
 From the result, it can be seen:
 
-•	The male customers earned more than the females and therefore purchased more bike than the females.
+•	Total profit made from the company was $286,4000.
 
-•	the company had more patronise from customers who travel 0-1 miles compared to others. The lowest patronise came from that travelled distances more than 10 miles.
+•	Total orders received was 9994 orders.
 
-•	the middle-aged customers purchased bike the most compared to the adolescents and the old customers.
+•	Total Sales made was $2,300,000
 
-•	
+•	Total Revenue and total profit by year was $732,700.
+
+• Total Sales amd total profit by Region was $725, 460.
+
+• The Western region had the highest order with a total of 3,200 Orders.
+
+• The Western region had the highest Sales woth a total Sales of $136,720 (31.82%).
+
+• Consumer had a total Sum of Revenue of $1,016, 000.
 
 ## 6.0. Conclusion
 
 ### 6.1. Summary of finding:
 
-•	TThe dataset contained data collected by a Bike company that deals on bike. The different fields contain different socio-demographic and bike purchase history of the customers.
+•	The Company made a total profit of $286,400 in three years.
 
-•	The dataset had 26 duplicates which was dropped from the dataset.
+•	The total Orders received by the Company was 9,994 Orders.
 
 •	The male customers earned more than the females and therefore purchased more bike than the females.
 
-•	the company had more patronise from customers who travel 0-1 miles compared to others. The lowest patronise came from that travelled distances more than 10 miles.
+•	The Company made a total Sales of $2,300,000.
 
-•	the middle-aged customers purchased bike the most compared to the adolescents and the old customers.
+•	Looking at the KPIs, the company had a target of achieving $93,044,000 in three years and was able to hit their target and over. Their total revenue and profit by year was $732,007,000.
+
+• By the different regions, the total Sales and profit made by the company was $725,460 with a target of $108,042,000.
+
+• Technology is the category with the highest Sum of Profit.
+
+• West region had the highest Sales compared to the other regions 
+
+• Western region had the highest Orders from Customers.
+
+• By Segment, Consumer had the highest sum of Revenue out of the three segments.
 
 
 ## 7.0. Acknowledgement
 
-I acknowledge PSP Analytics for this great platform for learning. I want to sincerely our facilitators (Mr. Okon Prince, Mr. Joseph Edet, Mr. Joseph Elijah and Mr. Zion) for providing the dataset that was used for this analysis and for their tireless efforts to ensure we get the best from the training. Google Colab was employed in this analysis.
+I acknowledge PSP Analytics for this great platform for learning. I want to sincerely our facilitators (Mr. Okon Prince, Mr. Joseph Edet, Mr. Joseph Elijah and Mr. Zion) for providing the dataset that was used for this analysis and for their tireless efforts to ensure we get the best from the training. Microsoft Power BI was employed in this analysis.
 
