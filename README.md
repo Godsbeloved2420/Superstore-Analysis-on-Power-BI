@@ -36,13 +36,13 @@ https://drive.google.com/file/d/14sxrhVjy_hoO68bgH0Rkg-L7h6yAU4-https://drive.go
 ## 3.0. Data Understanding
 
 ### 3.1. Data description
-The dataset was gotten in a structured form and contains 1,026 rows and 13 columns. 
+The dataset was gotten in a structured form and contains 9995 observations. 
 
 ### 3.2. Exploratory data analysis (EDA)
 
-Python (Google Colab) was implored in cleaning and analyzing the dataset. At the end of the analysis, we were able to:
+Microsoft Power BI was implored in cleaning, analyzing and viewing the dataset. At the end of the analysis, we were able to:
 
-a) discover the relationship between average income of each gender and their bike purchase history.
+a) visualize the diferent KPIs that show trends and context for key metrics such as Sales, Profit and Revenue.
 
 b) determine the relationship between distance travelled by cummuters and bike purchase.
 
