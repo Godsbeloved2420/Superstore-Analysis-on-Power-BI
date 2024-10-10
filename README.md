@@ -83,8 +83,7 @@ The males purchased more bike more than the female gender due to the fact they e
 
 #### Visualization of the Superstore DashBoard
 
-[Miracle's Superstore Report.pdf](https://github.com/user-attachments/files/17331554/Miracle.s.Superstore.Report.pdf)
-
+![power bi 1](https://github.com/user-attachments/assets/4d17998d-8cf8-472e-99a4-ee9d95c6b3cd)
 
                         
 ### 5.2. Interpretation/key findings: 
