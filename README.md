@@ -12,8 +12,11 @@ The analysis aimed at:
 a) answering business questions related to the company using charts to visualize the data. Some of the questions include:
 
 (i) Sum of profit by category
+
 (ii) Total Sales by Region
+
 (iii) Number of Orders by Region
+
 (iv) Sum of Revenue by Segment
 
 b) showing trends and context for key metrics such as Sales, Profit and Revenue.
@@ -51,16 +54,16 @@ b) visualize the Sum of Profit by Category, Total Sales by Region and Sum of Rev
 
 ### 4.1. Data preprocessing
 
-The dataset was imported into Google Drive then into Google Colab. The different libraries were also imported (Numpy, pandas, Matplotlib and Seaborn). The dataset was called 'file'.
+The dataset was imported and loaded into Power BI. There was no need for cleaning of the dataset because it has been cleaned before importing into Power BI. Though the Sales, profit and Discount columns were formatted to display currency values.
 
-#### Some of the steps taken in cleaning of the dataset includes:
+### 4.2. Analysis
 
-a) removing of duplicates (file.drop_duplicates (inplace = True)
+a) a new column was added to get the Revenue.
 
-b) replacing 'M' and 'S' in the Marital Status column of the dataset with 'Married' and 'Single' respectively 
+b) Calendar and Measures Tables were created. For the Calender Table, 
 
-```Python
-file['Marital Status']=file['Marital Status'].replace(['M','S'],['Married','Single'])
+```Power BI
+CALENDARAUTO()
 ```
 
 c) replacing 'M' and 'F' in the Gender column with 'Male' and 'Female' respectively 
