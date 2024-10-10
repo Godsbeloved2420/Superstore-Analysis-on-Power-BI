@@ -72,6 +72,7 @@ d) New measures were created which include: Total Revenue (Total Revenue = Sum (
 
 e) Creating of relationships in data model - the Calender Table was linked to the Orders Table by marking the Calender Table as the date table and dragging the Order Date to Calender table.
 
+f) 
 ### 4.2. Assumptions:
 The males purchased more bike more than the female gender due to the fact they earned more than the females.
 
@@ -80,17 +81,10 @@ The males purchased more bike more than the female gender due to the fact they e
 
 ### 5.1. Results
 
-#### Relationship between average income of each gender and their bike purchase history
+#### Visualization of the Superstore DashBoard
 
-![picture 1](https://github.com/user-attachments/assets/e9f0837a-1c99-45c2-a314-d651effb82ff)
+[Miracle's Superstore Report.pdf](https://github.com/user-attachments/files/17331554/Miracle.s.Superstore.Report.pdf)
 
-#### Relationship between distance travelled by cummuters and bike purchase
-
-![picture 2](https://github.com/user-attachments/assets/f1ca7034-3c1a-40a3-a4ef-2cdcf42e2b35)
-
-#### Relationship between age bracket and bike purchase
-	          
-![picture 3](https://github.com/user-attachments/assets/82d0f979-dfba-4d93-9911-257640dca2e3)
 
                         
 ### 5.2. Interpretation/key findings: 
