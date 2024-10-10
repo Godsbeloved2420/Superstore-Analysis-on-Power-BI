@@ -72,7 +72,9 @@ d) New measures were created which include: Total Revenue (Total Revenue = Sum (
 
 e) Creating of relationships in data model - the Calender Table was linked to the Orders Table by marking the Calender Table as the date table and dragging the Order Date to Calender table.
 
-f) 
+f) Creating of dashboard using charts (column and B, KPIs and cards.
+
+
 ### 4.2. Assumptions:
 The males purchased more bike more than the female gender due to the fact they earned more than the females.
 
