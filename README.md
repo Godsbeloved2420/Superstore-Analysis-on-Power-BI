@@ -42,11 +42,9 @@ The dataset was gotten in a structured form and contains 9995 observations.
 
 Microsoft Power BI was implored in cleaning, analyzing and viewing the dataset. At the end of the analysis, we were able to:
 
-a) visualize the diferent KPIs that show trends and context for key metrics such as Sales, Profit and Revenue.
+a) visualize the different KPIs that show trends and context for key metrics such as Sales, Profit and Revenue.
 
-b) determine the relationship between distance travelled by cummuters and bike purchase.
-
-c) visualize the relationship between age bracket and bike purchase.
+b) visualize the Sum of Profit by Category, Total Sales by Region and Sum of Revenue by Segment.
 
 
 ## 4.0. Methodology
