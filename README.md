@@ -140,5 +140,5 @@ From the result, it can be seen:
 
 ## 7.0. Acknowledgement
 
-I acknowledge LITA for this great platform for learning. I want to sincerely our facilitators for providing the dataset that was used for this analysis and for their tireless efforts to ensure we get the best from the training. Microsoft Power BI was employed in this analysis.
+I acknowledge PSP ANALYTICS for this great platform for learning. I want to sincerely our facilitators for providing the dataset that was used for this analysis and for their tireless efforts to ensure we get the best from the training. Microsoft Power BI was employed in this analysis.
 
